@@ -87,13 +87,14 @@ def distance():
             if shortest_dist is None or way < shortest_dist:
                 user2_name = to_user
                 shortest_dist = way
-            print(way, shortest_dist)
+            #print(way, shortest_dist)
         result.append({
             'from_user': from_user,
             'to_user': user2_name,
             'shortest_dist': shortest_dist
         })
-    return result
+    pprint(result)
+
 
 
 if __name__ == '__main__':
