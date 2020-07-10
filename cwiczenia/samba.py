@@ -1,5 +1,6 @@
 A = [1,0,1,0,1,1]
 
+# zadanie
 
 def solution(A):
     A = [0, 1, 1, 0]
