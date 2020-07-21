@@ -1,0 +1,17 @@
+1595322553361	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3K8kRp"
+1595322555215	Marionette	INFO	Listening on port 36677
+1595322555296	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595322556340	Marionette	INFO	Stopped listening on port 36677
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1595322558930	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8hIGwj"
+1595322560756	Marionette	INFO	Listening on port 43207
+1595322560834	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595322561933	Marionette	INFO	Stopped listening on port 43207
+1595322576937	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCspRx7"
+1595322578633	Marionette	INFO	Listening on port 40337
+1595322578655	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595322579712	Marionette	INFO	Stopped listening on port 40337
+1595322582309	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileEbGW8D"
+1595322584024	Marionette	INFO	Listening on port 41397
+1595322584114	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595322585440	Marionette	INFO	Stopped listening on port 41397
